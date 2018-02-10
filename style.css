@@ -1,0 +1,64 @@
+/* * {
+    border: 1px solid black
+} */
+
+footer {
+    margin: auto;
+    width: 50%;
+    border: hidden;
+    padding: 10px
+}
+
+#bio-footer {
+    margin-top: 30px;
+    border-top: 5px rgba(128, 128, 128, 0.678) solid;
+    width: 100%;
+    
+}
+
+#bio-footer img {
+    margin-top: 20px;
+    margin-right: 10px;
+    float: left
+}
+
+#bio-footer h2 {
+    margin-left: 50px
+}
+
+#bio-footer p {
+    padding-top: 10px 
+}
+
+#bio-footer button {
+    position: absolute;
+    right: 0;
+    background-color: rgb(255, 120, 79);
+    height: 50px;
+    width:100px;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    font-size: 20px 
+}
+
+
+#copy-footer {
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    color: lightgray
+}
+
+#small-logo {
+}
+
+#img-line {
+    border-top: 5px rgba(128, 128, 128, 0.678) solid;
+    margin-bottom: 2px;
+    padding-top: 10px
+}
+
+#ghost-line {
+    margin-top: 2px
+}
